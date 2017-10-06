@@ -1,0 +1,12 @@
+<licenses>
+    <license>
+        <name>GNU Lesser General Public License, Version 2.1</name>
+        <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
+        <distribution>repo</distribution>
+    </license>
+    <license>
+        <name>Eclipse Public License, Version 1.0</name>
+        <url>http://www.eclipse.org/org/documents/epl-v10.php</url>
+        <distribution>repo</distribution>
+    </license>
+</licenses>

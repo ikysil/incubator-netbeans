@@ -1,0 +1,9 @@
+This is the ehcache core module. Pair it with other modules for added functionality.
+http://ehcache.org
+
+Project metadata download: ehcache-core-2.4.3.pom
+Binary download: ehcache-core-2.4.3.jar
+Source download: ehcache-core-2.4.3-sources.jar
+
+Release date: 7 July 2011
+License: The Apache Software License, Version 2.0

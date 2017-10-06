@@ -1,0 +1,17 @@
+c3p0 - JDBC3 Connection and Statement Pooling
+version 0.9.2.1
+by Steve Waldman <swaldman@mchange.com>
+
+© 2013 Machinery For Change, Inc.
+
+This software is made available for use, modification, and redistribution, under the terms of the Lesser GNU Public License, v.2.1 (LGPL) or the Eclipse Public License, v.1.0 (EPL), at your option. You should have received copies of both licenses with this distribution.
+
+API docs for c3p0 are here.
+Looking for the definition of configuration properties?
+Looking for advice in using c3p0 with hibernate?
+Download the latest version from c3p0's site on SourceForge
+
+Follow or fork c3p0 on GitHub.
+Follow @c3p0_jdbc on Twitter.
+
+Note: Coordinates of this version on the Maven central repository: [groupId: com.mchange, artifactId: c3p0, version: 0.9.2.1]
